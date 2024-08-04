@@ -1,0 +1,37 @@
+---
+canvas: "https://media.nga.gov/public/manifests/canvas/61371.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "ocoj d\u00e9lkjf \u00e9ldkj f\u00e9ldksjf \u00e9djf \u00e9eoij f\u00e9eoijf \u00e9oeij few\u00e9fklj \u00e9ldfjk ds\u00e9lfj \u00e9dslf \u00e9dlkjf \u00e9lkdjf \u00e9ldskjf \u00e9ldskjf \u00e9sdlkjf poiqej f\u00e9jf \u00e9dlskj f\u00e9lkjf \u00e9dslkjf \u00e9lkjf",
+            "purpose": "describing",
+            "creator": {
+                "id": "gfalquet",
+                "name": "Gilles Falquet"
+            },
+            "created": "2024-08-04T20:46:25.887Z",
+            "modified": "2024-08-04T20:46:44.197Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://media.nga.gov/public/manifests/nga_highlights.json",
+                "type": "Manifest"
+            },
+            "id": "https://media.nga.gov/public/manifests/canvas/61371.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"8797.60546875\" cy=\"12489.830688476562\" rx=\"8047.3837890625\" ry=\"3787.0042724609375\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "becaad0a-0a66-472d-be08-88b949d700ff.json",
+    "motivation": "commenting"
+}
